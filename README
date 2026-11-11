@@ -1,0 +1,9 @@
+#This project is meant to be a Multi-LAN Gateway with a failover switch, the source code is being added to currently.
+
+#Some source code was referenced, I will cite their work below, I only used those with licenses stating that the code
+is free to use and look at, code was just needed to see where I needed to be and how
+the tests are supposed to work.
+
+#Citations:
+GitHub - gitbls/internet-monitor: Monitors internet connectivity. (2026). GitHub. https://github.com/gitbls/internet-monitor
+GitHub - gitbls/IMON: Multi-function multi-threaded internet monitor. (2022). GitHub. https://github.com/gitbls/imon
